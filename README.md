@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Kylar and I'm a freelance IOS Developer.
+
 <!--
 **Kyguyhero/Kyguyhero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
