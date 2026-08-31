@@ -14,6 +14,10 @@ I'm currently learning:
 
 Ask me about how I balance being a professional hockey player and freelance developer!
 
+Fun Fact:
+
+- I play guitar
+- I am learning Chinese
 <!--
 **Kyguyhero/Kyguyhero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
