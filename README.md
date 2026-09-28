@@ -4,7 +4,7 @@ My name is Kylar and I'm a freelance IOS Developer.
 
 Projects I'm currently working on:
 
-- 52 Card Workout: Fitness app that coordinates exercises based off cards drawn in a full 52 card deck.
+- 52 Card Draw: General IOS application that draws a random card from a deck of 52 cards
 - Better Than Yesterday: Daily habit tracker
 
 I'm currently learning:
@@ -18,6 +18,7 @@ Fun Fact:
 
 - I play guitar
 - I am learning Chinese
+  
 <!--
 **Kyguyhero/Kyguyhero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
