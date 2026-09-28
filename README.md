@@ -4,7 +4,7 @@ My name is Kylar and I'm a freelance IOS Developer.
 
 Projects I'm currently working on:
 
-- 52 Card Draw: General IOS application that draws a random card from a deck of 52 cards
+- 52 Card Draw: General iOS application that draws a random card from a deck of 52 cards
 - Better Than Yesterday: Daily habit tracker
 
 I'm currently learning:
